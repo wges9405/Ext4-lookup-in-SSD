@@ -1,5 +1,5 @@
 # Ext4-lookup-in-SSD
-
+## Reference
 - Draw.io
   - Flow chart of data structure, request, and function path of Ext4
     - https://drive.google.com/file/d/1PxfTq9ffQ7vQGSm32q025TxkKrQS9LRX/view?usp=sharing
@@ -37,4 +37,6 @@
       -  https://hackmd.io/jfO4qOG9THCYjiZO5pEnNg?view#HOST
   6. Compile kernel
       -  https://hackmd.io/jfO4qOG9THCYjiZO5pEnNg?view#Compile-kernel-code
-  7. 
+  7. Open find.py and do precondition
+      -  find.py - do experiment to observe ext4 lookup difference between cleaned cache and uncleaned cache
+      -  IOCTL.c - do ssd lookup by ioctl cmd from user space

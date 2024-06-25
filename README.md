@@ -27,14 +27,14 @@
 
 # Experiment:
   1. Install FEMU
-    -  https://github.com/MoatLab/FEMU/tree/68032f3509d61da171b65512c6b51556d3dce6f1
+      -  https://github.com/MoatLab/FEMU/tree/68032f3509d61da171b65512c6b51556d3dce6f1
   2. Download nvme-search.c & hash.c, put in ./femu/hs/femu/
-    -  ![image](https://github.com/wges9405/Ext4-lookup-in-SSD/assets/46646964/415ec598-3b1c-4a55-8ca5-1d1ba6d447e5)
+      -  ![image](https://github.com/wges9405/Ext4-lookup-in-SSD/assets/46646964/415ec598-3b1c-4a55-8ca5-1d1ba6d447e5)
   3. Run FEMU (blackbox mod), log in FEMU
   4. Download linux kernel v5.4.0 (or same as linux kernel version of FEMU)
-    -  https://hackmd.io/jfO4qOG9THCYjiZO5pEnNg?view#Download-Linux-kernel-540-inside-the-FEMU
+      -  https://hackmd.io/jfO4qOG9THCYjiZO5pEnNg?view#Download-Linux-kernel-540-inside-the-FEMU
   5. Modify linux kernel v5.4.0
-    -  https://hackmd.io/jfO4qOG9THCYjiZO5pEnNg?view#HOST
+      -  https://hackmd.io/jfO4qOG9THCYjiZO5pEnNg?view#HOST
   6. Compile kernel
-    -  https://hackmd.io/jfO4qOG9THCYjiZO5pEnNg?view#Compile-kernel-code
+      -  https://hackmd.io/jfO4qOG9THCYjiZO5pEnNg?view#Compile-kernel-code
   7. 
